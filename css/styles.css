@@ -1,6 +1,10 @@
 body{
 	background-color: #F9F9F9;
+	font-family: 'Garamond',serif;
+	font-size: 110%;
+
 }
+
 hr{
 	border-style: dotted none none none;
 	border-color:  grey;
@@ -9,9 +13,22 @@ hr{
 	width: 3%;
 	
 }
+
+h1{
+	font-family: 'Arial', Arial;
+	font-weight: 400;
+	letter-spacing: 1px;
+}
+
 h3{
 	color: #AAC4FF;
+	
+	
 }
+
 h4{
 	color: #AAC4FF;
+	
+	
 }
+
