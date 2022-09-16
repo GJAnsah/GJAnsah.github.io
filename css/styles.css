@@ -1,5 +1,5 @@
 body{
-	background-color: #F9F9F9;
+	background-color: #EEF1FF;
 	font-family: 'Garamond',serif;
 	font-size: 110%;
 
@@ -21,14 +21,22 @@ h1{
 }
 
 h3{
-	color: #AAC4FF;	
+	color: #0096FF;	
 }
 
 h4{
-	color: #AAC4FF;
+	color: #0096FF;
 	
 }
 
-img{
-	background-color: red;
+a{
+	color: #A66CFF;
+}
+a:hover{
+	color: blue;
+}
+
+#GSR{
+	font-family:"Comic sans MS";
+	font-size: 2;
 }
