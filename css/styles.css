@@ -3,13 +3,10 @@ body{
 	font-family: 'Merriweather Sans',sans-serif;
 	margin: 0px;
 	text-align: center;
-
-
-
 }
 
 .top-container{
-	padding-top: 2%;
+	padding-top: 6%;
 	width: 40%;
 	margin:  auto;
 	padding-bottom: 1.5%;
@@ -18,12 +15,21 @@ body{
 	border-radius: 50%;
 	float: left;
 }
+.profile{
+	padding-top: 1%;
+	margin: auto;
+	line-height: 2;
+	clear: left;
+	text-align: left;
+}
+.contact{
+	color: #256D85;
+	text-align: center;
+}
 
 .middle-container{
 	width: 40%;
 	margin: auto;
-	line-height: 1.5;
-	clear: left;
 }
 
 .bottom-container{
@@ -80,9 +86,7 @@ h5{
 }
 
 
-.contact{
-	color: #256D85;
-}
+
 #GSR{
 	font-family: 'Pacifico', cursive;
 
