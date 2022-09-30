@@ -1,27 +1,61 @@
 body{
 	background-color: #EEF1FF;
-	font-family: 'Garamond',serif;
-	font-size: 110%;
+	font-family: 'Merriweather Sans',sans-serif;
+	margin: 0px;
+	text-align: center;
+
+
 
 }
 
+.top-container{
+	padding-top: 2%;
+	width: 40%;
+	margin:  auto;
+	padding-bottom: 1.5%;
+}
+.ProfilePhoto{
+	border-radius: 50%;
+	float: left;
+}
+
+.middle-container{
+	width: 40%;
+	margin: auto;
+	line-height: 1.5;
+	clear: left;
+}
+
+.bottom-container{
+	padding-top:0.3125em;
+	font-family: 'Merriweather', serif;
+	
+	}
+
 hr{
 	border-style: dotted none none none;
-	border-color:  grey;
-	border-width: 5px;
+	border-color:  #AAC4FF;
+	border-width: 4px;
 	height: 0px;
-	width: 3%;
+	width: 2%;
 	
 }
 
 h1{
-	font-family: 'Arial', Arial;
-	font-weight: 400;
-	letter-spacing: 1px;
+	letter-spacing: 6.25%;
+	margin: 0;
+	font-family: 'Sacramento', cursive;
+	font-size: 437.5%;
+	font-weight: 100;
+	color: #66BFBF;
+	margin-bottom: 0;
 }
 
+
 h3{
-	color: #0096FF;	
+	color: #0096FF;
+	font-weight: 100;
+
 }
 
 h4{
@@ -30,13 +64,26 @@ h4{
 }
 
 a{
-	color: #A66CFF;
+	color: #256D85;
 }
+
 a:hover{
 	color: blue;
 }
 
+h5{
+	font-weight: 100;
+	
+	font-size: 100%;
+	margin-top: 0;
+	margin-bottom: 2rem;
+}
+
+
+.contact{
+	color: #256D85;
+}
 #GSR{
-	font-family:"Comic sans MS";
-	font-size: 2;
+	font-family: 'Pacifico', cursive;
+
 }
