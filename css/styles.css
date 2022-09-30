@@ -33,10 +33,9 @@ body{
 }
 
 .bottom-container{
-	padding-top:0.3125em;
-	font-family: 'Merriweather', serif;
-	
-	}
+	margin-top:4em;
+	font-size: 0.75rem;
+}
 
 hr{
 	border-style: dotted none none none;
@@ -71,6 +70,7 @@ h4{
 
 a{
 	color: #256D85;
+	text-decoration: none;
 }
 
 a:hover{
