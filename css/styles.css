@@ -27,9 +27,13 @@ body{
 	text-align: center;
 }
 
+
 .middle-container{
 	width: 40%;
 	margin: auto;
+}
+.Teaching{
+	text-align: left;
 }
 
 .bottom-container{
@@ -89,6 +93,10 @@ a:hover{
 
 
 #GSR{
+	font-family: 'Pacifico', cursive;
+
+}
+.subheadings{
 	font-family: 'Pacifico', cursive;
 
 }
