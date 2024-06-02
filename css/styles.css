@@ -3,10 +3,25 @@ body {
 	margin: 0;
 	padding: 0;
 	background-color: #fff;
-	color: #000;
+	color: #34495E;
 }
+
+
+/* Custom styles for icons */
+.icon-container a {
+	font-size: 2em; /* Increase icon size */
+	margin: 0 15px; /* Add horizontal spacing */
+	color: #AEB6BF; /* Default icon color */	
+}
+
+/* Optional: Change color on hover */
+.icon-container a:hover {
+	color: #ECF0F1; 
+}
+
+
 header {
-	background-color: #000;
+	background-color: #34495E;
 	color: #fff;
 	padding: 40px 20px;
 	text-align: center;
