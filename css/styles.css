@@ -11,17 +11,17 @@ body {
 .icon-container a {
 	font-size: 2em; /* Increase icon size */
 	margin: 0 15px; /* Add horizontal spacing */
-	color: #AEB6BF; /* Default icon color */	
+	
 }
 
 /* Optional: Change color on hover */
 .icon-container a:hover {
-	color: #ECF0F1; 
+	color: white; 
 }
 
 
 header {
-	background-color: #34495E;
+	background-color: #A7E6FF;
 	color: #fff;
 	padding: 40px 20px;
 	text-align: center;
@@ -65,48 +65,13 @@ footer {
 	position: fixed;
 	width: 100%;
 	bottom: 0;
+	font-family: 'Comfortaa', cursive;
 }
 .container {
 	max-width: 800px;
 	margin: auto;
 }
 
-
-.top-container{
-	padding-top: 6%;
-	width: 40%;
-	margin:  auto;
-	padding-bottom: 1.5%;
-}
-.ProfilePhoto{
-	border-radius: 50%;
-	float: left;
-}
-.profile{
-	padding-top: 1%;
-	margin: auto;
-	line-height: 2;
-	clear: left;
-	text-align: left;
-}
-.contact{
-	color: #256D85;
-	text-align: center;
-}
-
-
-.middle-container{
-	width: 40%;
-	margin: auto;
-}
-.Teaching{
-	text-align: left;
-}
-
-.bottom-container{
-	margin-top:4em;
-	font-size: 0.75rem;
-}
 
 hr{
 	border-style: dotted none none none;
@@ -121,9 +86,9 @@ h1{
 	letter-spacing: 6.25%;
 	margin: 0;
 	font-family: 'Sacramento', cursive;
-	font-size: 437.5%;
+	font-size: 400%;
 	font-weight: 100;
-	color: #66BFBF;
+	color: black;
 	margin-bottom: 0;
 }
 
@@ -149,21 +114,3 @@ a:hover{
 	color: blue;
 }
 
-.GSR{
-	font-weight: 100;
-	
-	font-size: 100%;
-	margin-top: 0;
-	margin-bottom: 2rem;
-}
-
-
-
-#GSR{
-	font-family: 'Pacifico', cursive;
-
-}
-.subheadings{
-	font-family: 'Pacifico', cursive;
-
-}
